@@ -1,0 +1,15 @@
+D:\GitHub\Todo-List\TodoList\Simple-TodoList\obj\Debug\net8.0\Simple-TodoList.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Todo-List\TodoList\Simple-TodoList\obj\Debug\net8.0\Simple-TodoList.AssemblyInfoInputs.cache
+D:\GitHub\Todo-List\TodoList\Simple-TodoList\obj\Debug\net8.0\Simple-TodoList.AssemblyInfo.cs
+D:\GitHub\Todo-List\TodoList\Simple-TodoList\obj\Debug\net8.0\Simple-TodoList.csproj.CoreCompileInputs.cache
+D:\GitHub\Todo-List\TodoList\Simple-TodoList\obj\Debug\net8.0\Simple-TodoList.sourcelink.json
+D:\GitHub\Todo-List\TodoList\Simple-TodoList\bin\Debug\net8.0\Simple-TodoList.exe
+D:\GitHub\Todo-List\TodoList\Simple-TodoList\bin\Debug\net8.0\Simple-TodoList.deps.json
+D:\GitHub\Todo-List\TodoList\Simple-TodoList\bin\Debug\net8.0\Simple-TodoList.runtimeconfig.json
+D:\GitHub\Todo-List\TodoList\Simple-TodoList\bin\Debug\net8.0\Simple-TodoList.dll
+D:\GitHub\Todo-List\TodoList\Simple-TodoList\bin\Debug\net8.0\Simple-TodoList.pdb
+D:\GitHub\Todo-List\TodoList\Simple-TodoList\obj\Debug\net8.0\Simple-TodoList.dll
+D:\GitHub\Todo-List\TodoList\Simple-TodoList\obj\Debug\net8.0\refint\Simple-TodoList.dll
+D:\GitHub\Todo-List\TodoList\Simple-TodoList\obj\Debug\net8.0\Simple-TodoList.pdb
+D:\GitHub\Todo-List\TodoList\Simple-TodoList\obj\Debug\net8.0\Simple-TodoList.genruntimeconfig.cache
+D:\GitHub\Todo-List\TodoList\Simple-TodoList\obj\Debug\net8.0\ref\Simple-TodoList.dll
